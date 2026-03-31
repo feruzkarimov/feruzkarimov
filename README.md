@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Feruz Karmov</h1>
+<h1 align="center">Hi 👋, I'm Feruz Karimov</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feruzkarimov&label=Profile%20views&color=0e75b6&style=flat" alt="feruzkarimov" /> </p>
